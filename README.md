@@ -1,5 +1,37 @@
 # 💫 About Me:
-I'm a full-stack developer passionate about building dynamic and scalable web applications. I specialize in modern JavaScript frameworks and back-end technologies. With a strong foundation in both frontend and backend development, I aim to create seamless user experiences and powerful APIs. Here are a few things I’m skilled at:<br>💻 Technologies & Tools<br>Frontend:<br><br>React: Building interactive UIs with reusable components.<br>Next.js: Developing performant and SEO-friendly full-stack applications.<br>Backend:<br><br>Django: Writing clean, efficient, and secure back-end code.<br>Django REST Framework: Building RESTful APIs with Django.<br>Node.js: Working with JavaScript on the server-side.<br>APIs:<br><br>Building and testing APIs using Django REST Framework and Postman.<br>Databases:<br><br>Proficient in SQL and NoSQL databases like PostgreSQL and MongoDB.<br>Version Control:<br><br>Comfortable with Git and GitHub for version control and collaborative development.<br>🚀 Projects & Contributions<br>Full-Stack Applications: Developed several projects using React and Next.js for the frontend, and Django for the backend, focusing on performance and scalability.<br>RESTful APIs: Built RESTful services using Django REST Framework for efficient communication between front-end and back-end.<br>Node.js Development: Contributed to building backend services using Node.js and Express.js.<br>🌱 Currently Learning<br>Exploring GraphQL for more efficient data querying.<br>Diving deeper into Docker for containerization and CI/CD practices.<br>📫 How to Reach Me:<br>Feel free to connect with me on LinkedIn or open an issue/discussion here on GitHub!
+
+# Full-Stack Developer
+
+I'm a passionate full-stack developer with a strong foundation in both **frontend** and **backend** technologies. I specialize in building dynamic, scalable web applications that offer seamless user experiences and powerful APIs.
+
+## 💻 Technologies & Tools
+
+### **Frontend**:
+- **React**: Building interactive UIs with reusable components.
+- **Next.js**: Developing performant, SEO-friendly full-stack applications.
+
+### **Backend**:
+- **Django**: Writing clean, efficient, and secure back-end code.
+- **Django REST Framework**: Building robust RESTful APIs.
+- **Node.js**: Working with JavaScript on the server-side.
+
+### **APIs**:
+- Building and testing APIs using **Django REST Framework** and **Postman**.
+
+### **Databases**:
+- Proficient in **SQL** and **NoSQL** databases: **PostgreSQL**, **MongoDB**.
+
+### **Version Control**:
+- Comfortable with **Git** and **GitHub** for version control and collaborative development.
+
+## 🚀 Projects & Contributions
+- **Full-Stack Applications**: Developed scalable projects using **React**, **Next.js**, and **Django** for the backend.
+- **RESTful APIs**: Built efficient and secure RESTful services using **Django REST Framework**.
+- **Node.js Development**: Contributed to building backend services with **Node.js** and **Express.js**.
+
+## 🌱 Currently Learning
+- Exploring **GraphQL** for efficient data querying.
+- Diving deeper into **Docker** for containerization and **CI/CD** practices.
 
 
 ## 🌐 Socials:
