@@ -19,7 +19,6 @@ I'm a passionate full-stack developer with a strong foundation in both **fronten
 ### **Backend**:
 - **Django**: Writing clean, efficient, and secure back-end code.
 - **Django REST Framework**: Building robust RESTful APIs.
-- **Node.js**: Working with JavaScript on the server-side.
 
 ### **APIs**:
 - Building and testing APIs using **Django REST Framework** and **Postman**.
