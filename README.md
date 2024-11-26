@@ -45,7 +45,7 @@ I'm a passionate full-stack developer with a strong foundation in both **fronten
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sohangpurh53&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sohangpurh53&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohangpurh53&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohangpurh53&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sohangpurh53&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
