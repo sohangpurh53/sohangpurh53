@@ -1,9 +1,10 @@
-# 💫 About Me:                                                                                                          [![](https://visitcount.itsvg.in/api?id=sohangpurh53&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me:                                                                                                          
 
 
 # Full-Stack Developer
 
 I'm a passionate full-stack developer with a strong foundation in both **frontend** and **backend** technologies. I specialize in building dynamic, scalable web applications that offer seamless user experiences and powerful APIs.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakimuddin-sohangpur-3aa439177)
@@ -54,6 +55,6 @@ I'm a passionate full-stack developer with a strong foundation in both **fronten
 ![](https://github-contributor-stats.vercel.app/api?username=sohangpurh53&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=sohangpurh53&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
