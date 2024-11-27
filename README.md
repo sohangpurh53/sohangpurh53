@@ -1,4 +1,5 @@
 # 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=sohangpurh53&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # Full-Stack Developer
 
@@ -43,7 +44,7 @@ I'm a passionate full-stack developer with a strong foundation in both **fronten
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohangpurh53&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohangpurh53&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sohangpurh53&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=sohangpurh53&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
@@ -53,6 +54,6 @@ I'm a passionate full-stack developer with a strong foundation in both **fronten
 ![](https://github-contributor-stats.vercel.app/api?username=sohangpurh53&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sohangpurh53&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
